@@ -1,0 +1,24 @@
+nav {
+    font-family: Helvetica;
+    font-size: 470%;
+    background-color: #272D33;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    
+
+    
+ }
+ .items{width:5%;
+height:10%}
+a{text-decoration:none;}
+
+.box{
+    background-color:#495868;
+    width:50%;
+    height: 200%;
+    border: 1px solid black;
+    margin: 0;
+    padding: 5%;
+    font-size:200%
+    }
